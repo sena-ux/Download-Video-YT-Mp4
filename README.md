@@ -32,7 +32,7 @@ Setelah Terbuka nanti tampilannya seperti dibawah ini
 
 ## Kontribusi
 
-Jika Anda ingin berkontribusi, silakan follow github saya dan youtube saya ada di INDOPIN.
+Jika Anda ingin berkontribusi, silakan follow github saya dan youtube saya ada di https://www.youtube.com/@indopin-senapernata.
 
 ## Lisensi
 
